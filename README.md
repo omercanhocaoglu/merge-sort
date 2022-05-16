@@ -37,7 +37,7 @@
 
 # Big-O Notation
 
-Big-O gösterimi O(nlogn)'dir.
+Big-O gösterimi o(nlogn)'dir.
 
 
 
